@@ -1,0 +1,21 @@
+# HMacro - PartA.txt
+> Date: 02/08/2018
+> Instructor: Savage
+
+# Supply & Demand
+   * Market - Any arrangment that brings together buyers and sellers
+   * Competitve marlet - One in which so many buyers and so many sellers that no
+     individual buyer or seller can influence price
+## Demand
+   * Quantity demanded - the amount of a good, service, or resource that people
+      are willing and able to buy
+      - each point on the demandcurve represents Qd
+   * Law of demand - Ceteris Paribus
+                  - if P ↑ ⇒ Qd ↓
+                  - if P ↓ ⇒ Qd ↑
+## Supply
+   * Quantity supplied - the amount of a good, service, or recource that producers
+     are willing and able to sell during a specified time at a specified price
+   * Law of Supply - Ceteris Paribus
+                   - if P ↑ ⇒ Qs ↑
+                   - if P ↓ ⇒ Qs ↓

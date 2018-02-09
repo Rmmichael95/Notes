@@ -1,0 +1,42 @@
+ConjugationPnt	Êtra	Je suis, Tu es, Il/Elle/On est, On est, Ils/Elles sont, Nous sommes,Vous Êtes
+ConjugationPnt	Aimer	J'aime, Tu aimer, Il/Elle/On aime, Ils/Elles aiment, Nous aimons, Vous aimez
+ConjugationPnt	Avoir	J'ai, Tu as, Il/Elle/On
+ConjugationPnt	Aller	Je Vais, Tu vas, Il/Elle/On va, On va, Ils/Elles vont, Nous allon, Vous allez
+ConjugationPnt	Faire	Je fais, Tu fais, Il/Elle/On fait, Nous Faisons, Vous Faites
+ConjugationPnt	Prendre	Je prends, Tu prends, Il/Elle/On prend, Ils/Elles prennent, Nous prenons, Vous prenez
+Definition	Êtra	To be
+Definition	Amier	To like
+Definition	Avoir	To have
+Definition	Aller	To go
+Definition	Faire	To do/make
+Definition	Prendre	To take
+Definition	Natation	Swimming
+Definition	Vélo tout terrain	Mountain bike
+Definition	Travail bénévole	Volunteer
+Definition	Lessive	Laundry
+Definition	Geasse matinée	Sleep in
+Definition	Vaisselle	Dishes
+AdjectfsPos	Je/J'	M: Mon F: Ma P: Mes
+AdjectfsPos	Tu	M: ton F: ta S: tes
+AdjectfsPos	Il/El/On	M: Son F: So S: Ses
+AdjectfsPos	Ils/Elles	M: Leus F: Leur S: Leurs
+AdjectfsPos	Nous	M: Notre F: Notre S: Nos
+AdjectfsPos	Vous	M: Votre F: Votre S: vos
+Gender	Intelligent	M: Intelligent F: Intelligente
+Gender	modest	M: Modeste F: Modeste
+Gender	Married	M: Marié F: Mariée
+Gender	Athletic	M: Sportif F: Sportive
+Gender	Positive	M: Positif F: Positive
+Gender	Lazy	M: Paresseu F: Paresseuse
+Gender	Fortunate	M: Chanceux F: Chanceuse
+Gender	Handsome	M: Beau F: Belle
+Gender	Old	M: Vieu F: Vieille
+Gender	Canadan	M: Canadien F: Canadienne
+Gender	Gentile	M: Gentil F: Gentille
+Gender	Intelectual	M: Intellectuel F: Intellectuelle
+Gender	Hardworking	M: Travailleus F: Travailleuse
+Gender	White	M: Blanc F: Blanche
+Gender	Purple	M: Violet F: Violette
+Gender	Expensive	M: Cher F: Chère
+Gender	Good	M: Bon F: Bonne
+Gender	First	M: Premier F: Première

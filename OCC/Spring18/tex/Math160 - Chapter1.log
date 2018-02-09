@@ -1,0 +1,372 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.2.6)  7 FEB 2018 20:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Math160 - Chapter1.tex"
+(./Math160 - Chapter1.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texmf-dist/tex/latex/base/slides.cls
+Document Class: slides 2016/03/29 v2.4a Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/slides.def
+File: slides.def 2016/03/29 v2.4a SLiTeX definitions
+ hacks, slides,
+\c@page=\count79
+ picture, mods,
+\@smashboxa=\box26
+\@smashboxb=\box27
+\@smashboxc=\box28
+
+output, init) (/usr/share/texmf-dist/tex/latex/base/sfonts.def
+File: sfonts.def 1998/06/12 v2.2e Standard LaTeX slide font definitions
+
+(/usr/share/texmf-dist/tex/latex/base/ot1lcmss.fd
+File: ot1lcmss.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+))
+\c@minutes=\count80
+\c@seconds=\count81
+\c@mv@invisible=\count82
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/n on input line 359.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/it on input line 362.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/n on input line 364.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/n on input line 366.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `invisible'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/In on input line 369.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `invisible'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/Iit on input line 371.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `invisible'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/In on input line 373.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `invisibl
+e'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/In on input line 375.
+) (./Math160 - Chapter1.aux)
+\openout1 = `"Math160 - Chapter1.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 5.
+(/usr/share/texmf-dist/tex/latex/base/omllcmm.fd
+File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 5.
+
+
+(/usr/share/texmf-dist/tex/latex/base/omslcmsy.fd
+File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 5.
+
+
+(/usr/share/texmf-dist/tex/latex/base/omxlcmex.fd
+File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <19.907> on input line 5.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <16.59> on input line 5.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <13.82> on input line 5.
+
+! Misplaced alignment tab character &.
+l.10 ..._{s}(t_{s,h,d-1,y} - \omega_{s,h,d-1,y}) &
+                                                   \quad  \text{for $t_{s,h,...
+
+? q
+OK, entering \batchmode...
+! Undefined control sequence.
+l.10 ...-1,y} - \omega_{s,h,d-1,y}) & \quad  \text
+                                                  {for $t_{s,h,d-1,y}$ is re...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.10 ...- \omega_{s,h,d-1,y}) & \quad  \text{for $
+                                                  t_{s,h,d-1,y}$ is real} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.10 ...- \omega_{s,h,d-1,y}) & \quad  \text{for $
+                                                  t_{s,h,d-1,y}$ is real} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   t
+l.10 ... \omega_{s,h,d-1,y}) & \quad  \text{for $t
+                                                  _{s,h,d-1,y}$ is real} \\
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+Overfull \hbox (28.21088pt too wide) detected at line 10
+\OML/lcmm/m/it/19.907 ^^V[] \OT1/lcmss/m/n/19.907 = [][] + \OML/lcmm/m/it/19.90
+7 ^^N[]\OT1/lcmss/m/n/19.907 (\OML/lcmm/m/it/19.907 t[] \OMS/lcmsy/m/n/19.907 ^
+^@ \OML/lcmm/m/it/19.907 ![]\OT1/lcmss/m/n/19.907 ) []
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 ...\omega_{s,h,d-1,y}) & \quad  \text{for $t_
+                                                  {s,h,d-1,y}$ is real} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Too many }'s.
+l.10 ... \quad  \text{for $t_{s,h,d-1,y}$ is real}
+                                                   \\
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11     \omega
+               _{s,h,d,y} & \quad  \text{for $t_{s,h,d-1,y}$ is not real}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.11     \omega_{s,h,d,y} &
+                            \quad  \text{for $t_{s,h,d-1,y}$ is not real}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.11     \omega_{s,h,d,y} & \quad  \text
+                                        {for $t_{s,h,d-1,y}$ is not real}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11     \omega_{s,h,d,y} & \quad  \text{for $
+                                              t_{s,h,d-1,y}$ is not real}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11     \omega_{s,h,d,y} & \quad  \text{for $t_
+                                                {s,h,d-1,y}$ is not real}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Too many }'s.
+l.11 ...ad  \text{for $t_{s,h,d-1,y}$ is not real}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{cases}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12   \end{cases}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.12   \end{cases}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.14 
+     
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.15 $$ \begin{equation}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16   x = a_
+             0 + \cfrac{1}{a_1 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.16   x = a_0 + \cfrac
+                       {1}{a_1 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17           + \cfrac
+                       {1}{a_2 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18           + \cfrac
+                       {1}{a_3 + \cfrac{1}{a_4} } } }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18           + \cfrac{1}{a_3 + \cfrac
+                                       {1}{a_4} } } }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\eqno' in math mode.
+\endequation ->\eqno 
+                     \hbox {\@eqnnum }$$\@ignoretrue 
+l.19   \end{equation}
+                     
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{document} ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19   \end{equation}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19   \end{equation}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.19   \end{equation}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.21 
+     
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+ [0
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Math160 - Chapter1.aux)
+ ) 
+Here is how much of TeX's memory you used:
+ 282 strings out of 492985
+ 4195 string characters out of 6138639
+ 55208 words of memory out of 5000000
+ 3915 multiletter control sequences out of 15000+600000
+ 6609 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 20i,6n,19p,160b,101s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/latxfont/lcmss8.pfb>
+Output written on "Math160 - Chapter1.pdf" (1 page, 41019 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

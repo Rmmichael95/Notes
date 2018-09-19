@@ -1,0 +1,83 @@
+---
+title: Form
+author: Ryan Sullivan & Patrick Sullivan
+theme: Copenhagen
+output:
+  beamer_presentation:
+    slide_level: 2
+    fig_height: 5
+    fig_width: 5
+---
+
+# Form
+**Form & Matter**: the shape of things & the material it's made of
+
+  - Everything that physically exists has both
+* The idea that form & matter are separable is central to architectural theory
+  - The Naiku Shrine at Ise in Japan proves a striking illustration of this relationship
+
+![Naiku Shrine](/home/ryanm/Documents/Notes/2018/Fall/img/naikushrine.png)\
+
+---
+
+# Separation of Form and Matter
+  * One way form & matter are separate in architecture is though design
+    - essence of architecture is capturing design on a convenient medium, giving
+      precedence to form over matter
+  * __De re aedificatoria__, by Leon Battista Alberti, is the earliest & most important
+    architectural treatise, written in the 1450s
+
+# Drawings and Design
+  * There are many types of architectural drawing, the most fundamental distinction
+    being between drawing something that already exists & designing something new
+
+## Two Types of Design Drawing
+  * Those that give an impression of what the building will look like, typified
+      by perspective
+  * Those that are drawn accurately to scale, typified by so called "orthographic"
+      drawings: plans, sections, & elevations
+
+# Harmonics and Proportion
+  * Most buildings are complex objects, collections of forms.
+    - These forms are __structural__, __functional__, __ornamental__, or a mix:
+      columns, beams, roofs, walls, buttresses, rooms, doors, windows, ect...
+
+## Hamonic Proportions
+  * __Harmonic Proportion__: 1:2 numerical ratio; named due to corresponding to musical
+                         harmony
+  * __Musical harmony__: explained with physics & mathematics--the ratio between
+                     the lengths of the strings corresponding to the ratios between
+                     the frequencies of vibrations of the strings
+  * New breed of intellectual artist/architect of renaissance, aware of concepts
+    of harmonic proportion, wanted their building to participate is the __cosmic
+    harmony__ that regulated the universe
+  * __Proportion__: in architecture is mainly a question of aesthetics
+
+# The Problem of Perspective
+
+## Harmonics and Perspective
+  * __Visual Harmonics__: distorted by effects of perspective
+  * __Doppler Effect__: pitch distortion caused by the relative movement that can
+                     heard every time cars drive past; almost imperceptible before
+                     motorized transportation
+  * __Perspective__: 1413; invention of this new drawing technique allowing more
+                 accurately depicting the world as humans see it
+    - Before perspective, objects were positioned according to symbolic significance
+
+# Proportional Systems
+
+## Natural Ratio
+  * __PI__: 1.6180339887, is irrational & has some extraordinary qualities attributed
+        to the rectangle 1:_Pi_
+    - Rectangle said to be most pleasing to human eye
+      of organic growth
+    - Rectangle called "_golden section_"
+
+## Two Types of Proportional Systems
+
+  * Harmonic system: characteristic of the Renaissance architecture
+    - Commensurate: meaning it consists essentially of rectangles formed by whole
+                    numbers of squares
+  * Geometric system: which may have been used in ancient & medieval periods
+    - irrational: although simple in construct, it produces awkward &
+                    unwieldy numbers

@@ -1,0 +1,83 @@
+---
+title: Econ
+---
+
+# Unemployment
+* employed (E), unemployed (U)
+* Unemployment rate (ue rate) - % of labor force unemployed
+  ue rate = U / LF * 100 = U / (U + E) * 100, to 1 decimal
+* Labor Force Participation Rate (LFPR) - % of working age
+  population (WA) in LF
+  LFPR = LF / WA * 100, calc to 1 decimal
+* Types of Unemployment:
+  Fractional - Short-term UE that arises from finding work
+  Seasonal - Results from seasonal work
+  Structural - Change in skill set
+  Cyclical - Trends in business cycle
+* The economy is in full employment (FE) when cyclical UE is 0
+* Natural Rate of Unemployment (NRU) - full employment rate of UE
+* Potential GDP - real GDP at FE
+
+# Inflation
+* Inflation - overall price level rising
+* Consumer Price Index (CPI) - Main measure of inflation
+  CPI = Total cost of basket at current prices /
+        Total cost of basket at base prices       * 100
+        calc to 3 decimals
+* Formula to convert $ values from years Purchasing Power
+  Amount in YearA = Amount in YearB * CPIA / CPIB
+* Real Price = Nominal price * Base Year CPI / Cur Year CPI
+* The nominal interest rate (i) is the interest rate usually
+  reported and not corrected for inflation
+* The real interest rate (r) corrects for inflation
+* Types of Inflation:
+  Demand-Pull - Caused by increase in AD
+  Cost-Push - Caused by decreae in AS
+
+# Income-Consumption
+* DI = Income - Taxes = YD = Y - T
+* DI = Consumption (C) + Private Savings (S^Private) =
+  YD = C + S^Private = Y - T
+* S^Private = YD - C = Y - T - C
+* C= C0 + C1 * YD
+  Autonamous Consumption + MPC * Disposable Income
+
+## Average and Marginal Propensities
+
+* MPC - Marginal Propensity to Consume - % amount spent on C per $ earned
+* APC - Average Propensity to Consume - total % of DI spend on C
+  APC = C / DI = C / YD = C / (Y - T)
+* APS - Average Propensity to Save = 1 - APC
+* MPC + MPS = 1
+
+## Interest Rate-Investment Relationship
+* Business borrow $ when rate of return (e) > cost of investment
+* Important cost of investment is real interest rate (r)
+* Businessess will invest as long as e ≥ r
+
+## Savings Supply
+* S^Private = Y - T - C
+* S^Public = T - G (Gov Savings)
+* If T - G > 0 -> budget surplus
+  If T - G < 0 -> budget deficit
+  If T - G = 0 -> balanced budget
+* S^National = Y - T - C + T - G = Y - C - G
+             = S^Private + S^Public
+
+* Y = C + I + G (X - M) (in open economy)
+* Y = C + I + G (in closed economy)
+  - I = Y - C - G - Since S^National = Y - C -G,
+    then when Y is in equilibrum, I = S^National
+
+# Tax Multiplier
+* k = 1 / (1 - MPC)
+* Multiplier effect:
+  ΔY = kΔC or
+  ΔY = kΔI or
+  ΔY = kΔG
+* The Tax Multiplier is different:
+  t.m.= 1 - k
+  ΔY = t.m.ΔT
+
+# AS-AD
+

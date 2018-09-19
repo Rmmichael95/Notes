@@ -1,0 +1,390 @@
+---
+title: French - HalfA
+output: pdf_document
+---
+
+# Irregular PP's
+pleuvoir  : plu
+avoir     : eu
+devoir    : dû
+être      : été
+faire     : fait
+voir      : vu
+boire     : bu
+recevoir  : reçu
+prendre   : pris
+apprendre : appris
+comprendre: compris
+lire      : lu
+
+# Pasśe Composé
+2 part
+1) auxilary/ helping verbs
+    - avoir
+    - être
+2) P.P (past particle)
+
+# Regular P.P's
+ending verbs, Drop "er" & replace by (é)
+"re" ending verbs drop "re" & replaceby (u)
+"ir" ending verbs, Drop "ir" & replace by "i"
+
+I ate       } Manger
+I have eaten}  1     2
+I did eat   } j'ai mangé
+              Je n'ai pas mangé
+              Je n'ai pas beacoup mangé
+    (veindre)
+
+Devenir     Devenu(e)(s)   to become  }
+Revenir     revenu(e)(s)   come back  }
+Monter      monté(e)(s)    to grow    }
+Rester      resté(e)(s)    to stay    }
+Sortir      sortie(e)(s)   to go out  }
+venir       venu(e)(s)     to come    }
+Aller       allé(e)(s)     to go      }
+Naître      Né(e)(s)       to be born } Êtra
+Descendre   descendu(e)(s) go down    }
+Entrer      entré(e)(s)    to come in }
+Rentrer     rentrŕ(e)(s)   return     }
+Tomber      tombé(e)(s)    to fall    }
+Retourner   retourné(e)(s) return     }
+Arriver     arrivé(e)(s)   to arrive  }
+Mourir      mort(e)(s)     to die     }
+Partir      parti(e)(s)    to leave   }
+
+## Deux amis
+- Alors(passer) tu _as passé_ un bon weekend?
+- Oui, très bon.(aller) je _suis allé_ à la plage avec ma petite amie et ses parents.
+- Quand est-ce que(partir) _êtes partis_?
+- (partir) Nous _sommes partis_ vendredi et(rentrer) nous _sommes rentrés_
+- (descendre) vous _êtes descendus_ dans un hôtel?
+- Non, (faire) nous _avons fait_ du camping.
+
+# Pronoms d'objet direct (Direct object pronouns)
+* le, l'    : him, it   }    _sub_ _verb_      _obj_
+* la, l'    : her, it   } 1) Je regarde la télé
+* les       : them      }    Je _ne_ __la__ regarde _pas_
+                        } 2) Mignonette amie Sherman
+                        }    Mignonette ne l'aime pas
+                        }    Mignonette va aimer Sherman pourtoiejours.
+                        }    Mignonette ne va pas l'aime
+                        }                  1         2
+
+## Exercise
+1) Est-ce que vous regardez la télévision le matin et le soir?
+  * Non, je ne la regarde pas ni le matin ni le soir.
+2) Est-ce que vous étudiez le français régulièrement?
+  * Oui, je la étudiez l'français régulièrment.
+3) Est-ce que vous allez voir vos amis ce week-end?
+  * Oui, je vais les voir ce week-end.
+4) Est-ce que vous écouter la musique à la radio ou sur votre i-Pod?
+  * Oui, je l'écoute à la i-Pod.
+5) Est-ce que vous aimez regarder les films étrangers?
+  * Oui, j'aime les regarder les fils étrangers.
+
+# p170
+* questions on bottom of page on test
+  - can bring composition cheetsheet
+  - avoir être
+  - cultural info
+  - passe compose
+
+
+1) Les Américains ont droit à deux semaines de vacances par an.
+  *
+2) Les vacances des Français sont plus longues que les vacances des Québécois.
+  *
+3) Avec qui revient-il en France après son premier voyage?
+  *
+4) Qu'est-ce qu'il obtient du roi François 1er pour deuxième voyage?
+  *
+5) Coment son ses relations avec les groupes amérindiens?
+  *
+6) Qu'est-ce que François 1er tient à trouver au Canada?
+  *
+
+# p.189 EX 11
+1) Tu aimes les films étrangers?
+  * Oui,
+2) Tu regardes la télé avex tes amis?
+  *
+3) Tu écoutes la musique a la radio ou avec ten i-Pod?
+  *
+4) Tu vas voir ta mère ce week-end?
+  *
+5) Tu as acheté tès livres en ligne?
+  *
+6) Tu cherches ta clé?
+  *
+
+# L'imparfait
+* Nous form of present tense: Parl~~ons~~ parl~er~
+* être > ét
+Je _----ais_
+Tu _----ais_
+Il,Elle,Ont _----ait_
+Ils,Elles _----aient_
+Nous _----ions_
+Vous _----iez_
+
+Man~~ger~~
+    Présent
+    nous mang_e_ons
+    c  a,o,u
+    g  a,o,u
+nous mange~~ons~~
+
+Je mangeais
+Tu mangeais
+Il, Elle, Ont mangeait
+Ils, Elles mangeait
+Nous mangions
+Vous mangiez
+
+## ća va
+Nous commenc~~cons~~ç_--_
+Ja commençais
+Tu commençais
+Il, Elle, Ont commençait
+Ils, Elles commençaient
+Nous commencions
+Vous commenciez
+
+# P 250 Ex 1
+
+# P233 reading + questions
+
+Imaginez la vir de l'homme préhistorique
+1) Regarder la télé.
+  - Il ne rearder pas la télé
+2) Manger de la viande.
+  - Il mangeait de la viande.
+3) être artistes
+  - Ils était artiste.
+4) Faire du jogging
+  - Il faisait du jogging.
+5) Avoir des cartes de crédit
+  - Il n'aviant pas de cartes de crédit.
+6) Fiemer des cigarettes
+  - Il ne fumait pas de cigarettes.
+
+# Imparfait/ Passé Composé
+Un jour d'octobre, mon ami et moi, nous _étions_ (être) assis á la terrasse d'un café.
+Il _était_ (être) deux heures de l'après-midi. Le soleil _brillait_ (briller). Les Feuilles
+des arbres _étaient_ (être) entrain de changer de couleur. C'_était_ (être) magnifique.
+Tout d'un coup une bicyclette _s'est heurtée_ (se heurter) contre une voiture. Le cycliste
+_est tombé'_ (tomber) et _s'est cassé_ (se casser) le bras. J'_avais_ (avoir) trés peur pour lui.
+J'_ai appleé_ (appeler) la police et une ambulance. Elle _sont arrivées_ (arriver) la trés vite.
+Les ambulanciers _ont mis_ (meltre) la victime dans l'ambulance et ils _sont partis_ (partir).
+
+# composition pg 244
+
+# Au passé compose au l'imparfait  Moi/je/j'a
+1) Faire du jogging ce matin
+  - PC - J'ai fait
+2) Vouloir dormir
+  - Imp - Je voulais
+3) Avoit sommeil
+  - Imp - J'avois
+4) Ne pas avoir envie de sortir
+  - Imp - Je n'avais pas
+5) Sortir à sept heures
+  - PC - Je suis sortie
+6) Rentrer une heure plus tard
+  - PC - Je suis rentrée
+7) Avoir besoin d'un bain
+  - Imp - J'avais
+8) aller dans la salle de bains
+  - PC - Je suis allé(e)
+9) Prendre un long bain
+  - PC - J'ai pris
+
+# Eric et Cathy
+1) Préparer le déjeuner aujourd'hui
+  - PC - Ils ont préparé
+2) Vouloir faire du shopping
+  - Imp - Ils voulaient
+3) Déjeuner avant de sortir
+  - PC - Ils ont déjeuné
+4) Aller au centre commercial à 1 heure
+  - PC - Ila sont allés
+5) Avoir l'intention d'acheter des vêtements
+  - Imp - Ils avaient
+6) Rentrer vers cing heures
+  - PC - Ils sont rentrés
+7) Avoir faim
+  - Imp - Ils avaient
+8) Retrouver des amis au restaurant
+  - PC - Ils ont retouré
+9) Rentrer à neuf heures
+  - PC - Ils sont rentrés
+
+1) Quel temps faisai-il? Qu'est-ce que tu as mis pour sortir?
+2) Quelle heure était-il quand tu es arrivé(e) au restaurant?
+3) Avais-tu tréa faim? As tu mangé tout de suite? Comment était le repas?
+4) Qu'est-ce que tu as fair aprés les repas?
+5) Quelle heure était-ol quand tu es retré(e)?
+  Étaits-tu fatigué(e)? Est-ce que tu es allé(e) tout de suite au lit? As-tu bien dormi?
+6) Le lendemain jsqu'à quelle heure es-tu reté(e) au lit?
+
+#PG 233, 234
+Vous: you
+nous: us
+me, m': me
+te, t': you
+
+# stuff
+1) Je regarde souvent la télé le week-end, et toi?
+  * Non, je ne la regardé pas souvent le week-end.
+2) J'ai envie de regarder la télé ce soir, et toi?
+  * Non, j'ai envie ne la regarder pas ce soir.
+3) J'invite souvent mes parents à la maison, et toi?
+  * Non, je ne les invite à la maison.
+4) Ce week-end j'ai l'intention de voir mes parents, et toi?
+  * Oui, ce week-end j'ai l'intention de les voir.
+5) Je trouve mes cours plutôt difficiles, et toi?
+  * Je les trouve plutôt difficiles.
+6) Ce soir, je vais prépare le prochain examen examen de français, et toi?
+  * Je prépare "".
+7) Dimanche dernier, j'ai parlé à mes parents, et toi?
+  * J'ai parlé.
+8) Hier, j'ai fait mes devoirs, et toi?
+  * Je les au fiat.
+9) Hier soir, j'ai regardé la télé, et toi?
+  * Je ne l'ai pas regardé.
+10) Est-ce que, tes amis t'écoutent toujours?
+  * Mes amis m'écoutent.
+11) Est-ce que tu as écrit un texto à ton ami(e) récemment?
+  * Oui, je lui ai écrit un texto à ton ami..
+
+
+
+
+
+# Les vaanes de mes rêves / My dream vacation
++ p274, p277 Les vacances d'hiver / les vacances d'été
++ à la montagne / à la plage
++ en ville / à la campagne
+  - en famille ou avec des amis
+  - la plus belle ville le plus beau pays le plus bel endroit
+
++ la nature Centres urbains
+  - la relaxation beaucoup d'activités
++ Faire du VTT - faire du ski
+                - faire du canoe
+                - "   " du rafting
+                - "   " des randonnées
+
+# p276 Act 15
+A) Bonjour(1), monsieur, Est-ce que je peux vous renseigner(2)?
+C) Euh, oui, madame. Je voudrai réserver(3) une place sur le vol(4) Pairs-Dakar.
+A) Quand désirez-vous partir(5)?
+C) Le 15 novembre.
+A) Il y a un vol direct Air France Pairs-Dakar qui part d'Orly-sud à 13h30.
+C) Il y a un antre vol plus tard(6)?
+A) Non, monsieur, Désirez-vous aller simple(7) ou un aller-retour?
+C) aller-retour(8)
+(10)quelle (11) s'il vous plaît
+A)
+C)
+A)
+
+#
+
+## Adjectifs Noms
++ plus+ } Il a d'amis que sa soeur ~
++ moins-} Il a plus de, nom que sa soeur
++ aussi-} Nous avons moins de devoirs en Français qu'en mathematiques.
+          Elle au autant de vêtements que sa soeur.
+
+## Le superlatof
++ Paris est la plis belle ville du monde
++ Le vin franćais est le meilleur du monde
++ Les étudiantes de Français 2 sont les meilleures
+
+Pronom "en" replaces non-count nouns and indefinite articles.
+                     du, de, la, de l', des   un, une, des
+1) y a-t-il des étudiants dans la classe.
+   Oui, il n'y en a pas
+2) Tu veux du café
+   Oui, j'en veux
+3) Combien de chocolats voulez-vous?
+   Nous en vonlons deux
+
+# Composez vos réponses avec les pronoms qui conviennent: le, la, les l', me, m', te, t', nous, vous, lui, leus, y, en
+1) Est-ce que tu promènes ton chien?
+   Oui, je _----_ promène...
+2) Est-ce que vos voisins invitent souvent vos enfants?
+   Non, ils _----_ _----_ invitent _----_ souvent.
+3) Vos amis vous invitent _----_ souvent.
+   Non, ils _----_ _----_ invitent jamais.
+4) Est-ce que vois allez souvent au cinéma?
+   J'_----_ vais souvent.
+5) Est-ce que vous faites souvent du sport?
+   Je n'_----_ _----_ souvent.
+6) Est-ce que vois téléphonez régulièrement à vos parents?
+   Je _----_ téléphone de temps en temps.
+7) Avec-vous écrit un texto à votre ami(e) aujourd'hui?
+   Non, je _----_ _----_ ai _----_ encore écrit.
+8) Est-ce que tes ami(e)(s) vont t'inviter à la fête?
+   Oui, ils vont _----_ inviter à la fête.
+9) Est-ce que tu regardes la télé le matin ou lesoir?
+10) Est-ce que tu vous préparer l'examen de français?
+11) Est-ce que tu offres un cadeau à ta mére pour sa fête.
+12) Est-ce que tu vas poser des questions au professeur aujord'hui?
+
+# Reflexive promons
+* Les verbes pronominaux
+
++ Je: me, m'
++ Tu ye, t'
++ Il, Elle, On } se, s'
+  Ils, Ells    }
++ Nous: Nous
++ Vous: Vous
+
+* Les pronoms réfléchis
+* Présent se éveill: to wake up
++ Je me réveille -> Je ne me réveille pas
++ Tu te réveilles -> Tu ne te réveilles pas
++ Il se réveilles -> Il ne se réveille pas
++ Elle se réveille -> Elle ne se réveille pas
++ On se réveille -> On ne se réveille pas
++ Ils se réveillent -> Ils ne se réveillent pas
++ Elles se réveillent -> Elles ne se réveillent pas
++ Nous nous réveillons -> Nous ne nous réveillons pas
++ Vous vouz révillez -> Vous ne vouz réveillez pas
+
++ Je me lève -> Je ne me lève pas
+
++ je m' endormir -> Je ne m'endors pas
++ Tu t' endors -_ Tu ne t'enfors pas
+
++ Je m'ennuie
++ Tu t'ennuies
++ Ils s'ennuie
++ Elle s'ennuie
++ On s'ennuieo
+
+# 
+1) Pierre (laver)lave son chien.
+2) Le chat Minouche (laver) se lave aprés spm dîner.
+3) Hélène (coucher) se couche à pnze heures.
+4) Hélène (coucher) couche ses enfants.
+5) Les chats (amuser) amusent les anfants
+6) Les chats (amuser) s'amusent avec une balle.
+
+# Les vacances d'été
+1) À quelle heure est-ce que tu vas te réveiller pendant lws vacances?
+2) Est-ce que tu vas prendre le petit-d'jéuner au lit? ou est ce que tu vas te lever immédiatement?
+3) Est-ce que tu vas te relexer sur les belles plages?
+4.a) Est-ce que tes amis et toi, vous allez vouz retouren=ver réguliérement?
+5) Est-ce que tes amis et toi, vouz allez deacoup cous amuser on est-ce que vous ennuyer?
+6) Est-ce que tu vas te raser ou te maquiller tous ;es jours?
+7) Est-ce que tu vas te coucher tôt ou tard?
+8) E
+4.b) Est-ce que vous allex vous entendre bien ou est-ce que vous allez vois disputer?
+
+# Passé Composé - Reflexive pronouns
++ Heir, je me suis réveillée t

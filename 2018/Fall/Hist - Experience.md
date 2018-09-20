@@ -72,6 +72,42 @@ output: pdf_documents
 
 **The Spanish Beachhead in the Caribbean**
 
+  * Land Columbus discovers called America by German map makers
+  * 1490s-1500s: Tainos suffer brutal Spanish regime; leaders killer; survivors work in mines & fields
+    - Bartolome de Las Cortez: Party to takeover, becomes Dominican friar fighting Spanish
+
+**Conquest of the Aztecs**
+
+  * 1519: Hernan Cprtes led expedition to Mexico's Gulf, hearing of imperial people occupying
+    fantastic city to the east
+  * Aztecs had much in common w/Spanish but lacked knowledge of ocean travel, metal tools/weapons, & firearms
+  * Cortes rallied natives w/resentment to _Tenochtitlan_ & marched on the city
+    - Moctezuma meets party w/gold
+      + Spanish capture king & rule city until his death
+  * _Virgin Soil Epidemics_: victims had no prior exposure
+    - Smallpox claimed millons of lives in Central Mexico ~ 1520-21
+      + Conquistadors re-capture city & fan out into Mexico, hearing of new city
+  * 1532: SPanish under Francisco Pizarro conquer Inca w/same tactics as Aztecs
+
+** The Columbian Exchange**
+
+  * _Columbian Exchange_: Transfer of germs, humans, plants, & animals between Eurasia, Africa, & South America
+    - not a short event, continued to reshape world for millennium
+
+**The Crown Steps In**
+
+  * Spanish crown attempt to stop rise of colonial nobility w/bribery
+    - Sometimes saved trouble; Francisco Pizarro assassinated by followers
+    - Important positions in places such as Mexico City (formerly Tenochtitlan) appointed by crown
+    - Few Spanish settle in Americas; by 1600 only about 5% colonial population Spanish decent
+      + Even by 1800, only 300K Spanish immigrate to Central/South America
+    - Sugar plantations worked by black slaves; by 1520 being mass imported from Africa
+  * Silver discoveries in Mexico & Peru bring Spain huge profits in 1540s
+
+**In Search for the North America's Indian Empires**
+
+  *
+
 # Chapter 4: Bears on Floating Islands
   * The English, French, Dutch were all rivals, the Micmacs & other native tribes studied
     them & began to form alliances

@@ -38,6 +38,7 @@ FUN FACT - Ring-around-rosy about plague
   - Columbus - four voyages
   - Explored the Caribbean
   - Spurred wave of (mostly) Spanish exploration
+  * "_For King God and Gold_"
 
 ## Spanish Empire
   * Treaty of tortesyas lets Spain control majority of new world
@@ -59,15 +60,16 @@ FUN FACT - Ring-around-rosy about plague
   * By the time of English interest in the new world, Spain &
     Portugal already firmly entrenched
   * England slowest of European powers to begin exploration
+    - 1585: Roanoke founded and disapeared; supplies delayed by Spanish invasion
   * Initially, interest across Atlantic was primarily fish in Newfoundland
     & Nova Scotia
   * English political/religious turmoil caught up in Reformation
-  * 1534, Henry VII broke w/Catholic church when pope refused to grant him divorce
-  * Printing press invented 50 before Martin Luthars protest, caused his ideas to
+  * 1534, Henry VIoII broke w/Catholic church when pope refused to grant him divorce
+  * Printing press invented 50 before Martin Luthars protest(1517), caused his ideas to
     circulate throughout Europe
   * Queen Elizabeth (r. 1558-1603) did not promote overseas colonies
   * She favored Protestantism & the vehicle for national independence
-  * contending with Philip II of Spain
+  * contending with Philip II of Spain; 1588 Spanish armada invades
   * England inspired to seek colonies where they could develop gold/silver supply
   * English merchants risked their capital in hope of that small scale adventure
     produce profit
@@ -75,7 +77,7 @@ FUN FACT - Ring-around-rosy about plague
     capitalized & coordinated by the crown
   * English attempts were private ventures organized & financed by small partnerships
 
-# English Colonization - Jamestown
+# English Colonization - Jamestown(mercantilism)
   * Elizabeth I was succeeded by her nephew in 1603 James VI  of Scotland - James
     1 of England
   * Conditions at home remained difficult w/high taxes & low wages
@@ -182,3 +184,8 @@ FUN FACT - Ring-around-rosy about plague
     - Required mutual watchfulness
     - No toleration of deviance or disorder
     - No privacy
+
+* Oliver Cromwell: No crown, named lord protector of England
+  + transportation Act(Charles II): Laws passewd to stop Dutch from trading; trade ships must
+    be manned by English
+
